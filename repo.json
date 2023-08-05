@@ -12,13 +12,13 @@
       "ReliantOmega"
     ],
     "DalamudApiLevel": 8,
-    "IconUrl": "https://github.com/Reliantomega/HeelsPlugin/blob/main/icon.png",
+    "IconUrl": "https://github.com/Reliantomega/HeelsPlugin/raw/main/icon.png",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 0,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/LeonBlade/HeelsPlugin/releases/download/1.3.4/HeelsPlugin.zip"
+    "DownloadLinkInstall": "https://github.com/Reliantomega/HeelsPlugin/releases/download/download/HeelsPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/Reliantomega/HeelsPlugin/releases/download/download/HeelsPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/Reliantomega/HeelsPlugin/releases/download/download/HeelsPlugin.zip"
   }
 ]

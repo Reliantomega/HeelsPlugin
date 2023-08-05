@@ -1,12 +1,12 @@
 {
-  "Author": "LeonBlade",
+  "Author": "ReliantOmega",
   "Name": "Heels Plugin",
   "Description": "Offsets your character off the ground for when wearing heels.",
   "InternalName": "HeelsPlugin",
-  "AssemblyVersion": "1.3.4",
+  "AssemblyVersion": "1.0.0",
   "RepoUrl": "https://github.com/ReliantOmega/HeelsPlugin",
   "ApplicableVersion": "any",
-  "Tags": ["heels", "high heels", "height", "offset", "leonblade"],
+  "Tags": ["heels", "high heels", "height", "offset", "ReliantOmega"],
   "DalamudApiLevel": 8,
   "IconUrl": "https://github.com/ReliantOmega/HeelsPlugin/raw/main/icon.png"
 }
